@@ -42,3 +42,8 @@ Following noteworthy code practices have been taken into account to prevent code
 
 - `APPDEBUG` - true if debug messages is needed, check log/propertieslog.log
 - `MOVIEALLOC` - set algorithm to allocate user requests, currently takes two value `leastloss` and `random`. If anything else is passed or it is unset, then BaselineAllocator works. `leastlosss` is for LeastLossAllocator. `random` is for RandomAllocator.
+- `TESTFILE` - absolute path to test file. only needed for JUnit testing.
+
+**Testing and Code Coverage**
+- Code Coverage - 89.8%
+- Use AllTests.java as JUnit test suite. It requires `TESTFILE` environment variable set.
