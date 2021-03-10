@@ -26,7 +26,7 @@ public class App
         allocator = new BaselineAllocator();
         allocator.setSize(numRows, numCols);
         File inputFile = new File(args[0]);
-        File outputFile = new File(args[0]+".output");
+        File outputFile = new File(args[0]+".output.txt");
         String[] splits = null;
         try {
 			Scanner reader = new Scanner(inputFile);

@@ -22,3 +22,1201 @@
 [INFO ] 2021-03-10 02:16:47.621 [main] App - stopping simulation...
 [INFO ] 2021-03-10 02:17:37.133 [main] App - starting simulation...
 [INFO ] 2021-03-10 02:17:37.145 [main] App - stopping simulation...
+[INFO ] 2021-03-10 03:28:17.565 [main] App - starting simulation...
+[FATAL] 2021-03-10 03:28:17.570 [main] App - exactly one argument is required
+[INFO ] 2021-03-10 03:29:19.294 [main] App - starting simulation...
+[INFO ] 2021-03-10 03:29:19.320 [main] App - stopping simulation...
+[INFO ] 2021-03-10 03:29:35.367 [main] App - starting simulation...
+[INFO ] 2021-03-10 03:29:35.393 [main] App - stopping simulation...
+[INFO ] 2021-03-10 03:31:58.749 [main] App - starting simulation...
+[INFO ] 2021-03-10 03:31:58.776 [main] App - stopping simulation...
+[INFO ] 2021-03-10 03:41:33.543 [main] App - starting simulation...
+[INFO ] 2021-03-10 03:41:33.567 [main] App - stopping simulation...
+[INFO ] 2021-03-10 03:58:06.818 [main] App - starting simulation...
+[INFO ] 2021-03-10 03:58:06.844 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:02:51.698 [main] App - starting simulation...
+[INFO ] 2021-03-10 04:03:25.014 [main] App - starting simulation...
+[INFO ] 2021-03-10 04:03:25.038 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:09:52.659 [main] App - starting simulation...
+[INFO ] 2021-03-10 04:09:52.685 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:11:04.575 [main] App - starting simulation...
+[INFO ] 2021-03-10 04:11:04.605 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:12:49.153 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:12:49.174 [main] PsuedoMatrix - going to trim1
+[DEBUG] 2021-03-10 04:12:49.176 [main] PsuedoMatrix - going to trim3
+[DEBUG] 2021-03-10 04:12:49.176 [main] PsuedoMatrix - going to trim5
+[DEBUG] 2021-03-10 04:12:49.178 [main] PsuedoMatrix - going to trim7
+[DEBUG] 2021-03-10 04:12:49.178 [main] PsuedoMatrix - going to trim9
+[INFO ] 2021-03-10 04:12:49.178 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:15:43.260 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:15:43.282 [main] PsuedoMatrix - going to trim 1
+[DEBUG] 2021-03-10 04:15:43.284 [main] PsuedoMatrix - going to trim 3
+[DEBUG] 2021-03-10 04:15:43.284 [main] PsuedoMatrix - going to trim 5
+[DEBUG] 2021-03-10 04:15:43.285 [main] PsuedoMatrix - going to trim 7
+[DEBUG] 2021-03-10 04:15:43.285 [main] PsuedoMatrix - going to trim 9
+[INFO ] 2021-03-10 04:15:43.287 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:16:10.481 [main] App - starting simulation...
+[INFO ] 2021-03-10 04:16:10.504 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:17:44.472 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:17:44.496 [main] PsuedoMatrix - going to trim 1
+[DEBUG] 2021-03-10 04:17:44.499 [main] PsuedoMatrix - going to trim 3
+[DEBUG] 2021-03-10 04:17:44.499 [main] PsuedoMatrix - going to trim 5
+[DEBUG] 2021-03-10 04:17:44.500 [main] PsuedoMatrix - going to trim 7
+[DEBUG] 2021-03-10 04:17:44.500 [main] PsuedoMatrix - going to trim 9
+[INFO ] 2021-03-10 04:17:44.501 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:21:28.531 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:21:28.553 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:21:28.553 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:21:28.555 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:21:28.555 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:21:28.556 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:21:28.557 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:21:28.557 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:21:28.557 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:21:28.557 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:21:28.558 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:21:28.558 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:21:28.558 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:21:28.559 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:21:28.559 [main] PsuedoMatrix - going to trim row 9
+[INFO ] 2021-03-10 04:21:28.560 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:25:08.994 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:25:09.017 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:25:09.017 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:25:09.017 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:25:09.018 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:25:09.018 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:25:09.018 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:25:09.019 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:25:09.019 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:25:09.019 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:25:09.019 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:25:09.020 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:25:09.020 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:25:09.020 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:25:09.020 [main] PsuedoMatrix - going to trim row 9
+[INFO ] 2021-03-10 04:25:09.022 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:25:35.214 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:25:35.238 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:25:35.239 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:25:35.239 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:25:35.239 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 04:25:35.239 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:25:35.240 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:25:35.240 [main] PsuedoMatrix - going to trim row 3
+[DEBUG] 2021-03-10 04:25:35.240 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:25:35.240 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:25:35.240 [main] PsuedoMatrix - going to trim row 5
+[DEBUG] 2021-03-10 04:25:35.241 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:25:35.241 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:25:35.241 [main] PsuedoMatrix - going to trim row 7
+[DEBUG] 2021-03-10 04:25:35.241 [main] PsuedoMatrix - going to trim row 9
+[INFO ] 2021-03-10 04:25:35.243 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:26:35.178 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:26:35.199 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:26:35.199 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:26:35.199 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:26:35.200 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:26:35.200 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:26:35.200 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:26:35.200 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:26:35.200 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:26:35.201 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:26:35.201 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:26:35.201 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:26:35.201 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:26:35.202 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:26:35.202 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:26:35.203 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:27:56.533 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:27:56.555 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:27:56.555 [main] PsuedoMatrix - going to trim row 0 1
+[FATAL] 2021-03-10 04:27:56.558 [main] App - second split should be an integer
+[INFO ] 2021-03-10 04:28:20.707 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:28:20.731 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:28:20.731 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:28:20.732 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:28:20.733 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:28:20.733 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:28:20.733 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:28:20.733 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:28:20.734 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:28:20.734 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:28:20.734 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:28:20.734 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:28:20.735 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:28:20.735 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:28:20.735 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:28:20.736 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:30:41.185 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:30:41.207 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:30:41.207 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:30:41.209 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:30:41.209 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:30:41.209 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:30:41.210 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:30:41.210 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:30:41.210 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:30:41.211 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:30:41.211 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:30:41.212 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:30:41.212 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:30:41.212 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:30:41.212 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:30:41.213 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:30:41.213 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:30:41.213 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:30:41.214 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:30:41.215 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:30:55.253 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:30:55.275 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:30:55.275 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:30:55.276 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:30:55.277 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:30:55.277 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:30:55.277 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:30:55.277 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:30:55.278 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:30:55.278 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:30:55.278 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:30:55.278 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:30:55.278 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:30:55.279 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:30:55.279 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:30:55.279 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:30:55.280 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:30:55.280 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:30:55.280 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:30:55.281 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:32:42.903 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:32:42.924 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:32:42.924 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:32:42.926 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:32:42.926 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:32:42.927 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:32:42.927 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:32:42.928 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:32:42.928 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:32:42.929 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:32:42.929 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:32:42.929 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:32:42.929 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:32:42.929 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:32:42.930 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:32:42.930 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:32:42.931 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:32:42.931 [main] PsuedoMatrix - going to trim columns 1
+[DEBUG] 2021-03-10 04:32:42.931 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:32:42.933 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:33:36.511 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:33:36.533 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:33:36.533 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:33:36.535 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:33:36.536 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:33:36.536 [main] PsuedoMatrix - going to trim columns 10 -1
+[DEBUG] 2021-03-10 04:33:36.536 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:33:36.537 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:33:36.537 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:33:36.537 [main] PsuedoMatrix - going to trim columns 10 -1
+[DEBUG] 2021-03-10 04:33:36.537 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:33:36.538 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:33:36.538 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:33:36.538 [main] PsuedoMatrix - going to trim columns 10 -1
+[DEBUG] 2021-03-10 04:33:36.539 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:33:36.539 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:33:36.540 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:33:36.540 [main] PsuedoMatrix - going to trim columns 10 -1
+[DEBUG] 2021-03-10 04:33:36.540 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:33:36.542 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:38:47.551 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:38:47.573 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:38:47.573 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:38:47.575 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:38:47.575 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:38:47.575 [main] PsuedoMatrix - going to trim columns 1 0 -1
+[DEBUG] 2021-03-10 04:38:47.576 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:38:47.576 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:38:47.576 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:38:47.577 [main] PsuedoMatrix - going to trim columns 1 0 -1
+[DEBUG] 2021-03-10 04:38:47.577 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:38:47.578 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:38:47.578 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:38:47.579 [main] PsuedoMatrix - going to trim columns 1 0 -1
+[DEBUG] 2021-03-10 04:38:47.579 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:38:47.580 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:38:47.580 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:38:47.581 [main] PsuedoMatrix - going to trim columns 1 0 -1
+[DEBUG] 2021-03-10 04:38:47.581 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:38:47.581 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:38:57.994 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:38:58.015 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:38:58.015 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:38:58.017 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:38:58.017 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:38:58.017 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:38:58.017 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:38:58.017 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:38:58.018 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:38:58.018 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:38:58.018 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:38:58.018 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:38:58.018 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:38:58.019 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:38:58.019 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:38:58.019 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:38:58.019 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:38:58.019 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:38:58.020 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:38:58.020 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:41:17.167 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:41:17.189 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:41:17.190 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:41:17.191 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:41:17.191 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:41:17.191 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:17.192 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:41:17.192 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:41:17.192 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:41:17.193 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:17.193 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:41:17.194 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:41:17.194 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:41:17.194 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:17.195 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:41:17.195 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:41:17.195 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:41:17.196 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:17.196 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:41:17.197 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:41:51.860 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:41:51.882 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:41:51.882 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:41:51.882 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:41:51.884 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:41:51.884 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:41:51.885 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:41:51.885 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:51.885 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:41:51.886 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:41:51.886 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:41:51.886 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:41:51.886 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:51.887 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:41:51.887 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:41:51.887 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:41:51.888 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:41:51.888 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:51.888 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:41:51.889 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:41:51.889 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:41:51.889 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:41:51.889 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:41:51.890 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:41:51.891 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:42:51.192 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:42:51.215 [main] FreeRange - checkinrange passed with newStart 219
+[DEBUG] 2021-03-10 04:42:51.216 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:42:51.216 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:42:51.217 [main] FreeRange - checkinrange passed with newStart 419
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:42:51.218 [main] FreeRange - checkinrange passed with newStart 419
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:42:51.218 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:42:51.220 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:42:51.220 [main] FreeRange - checkinrange passed with newStart 1019
+[DEBUG] 2021-03-10 04:42:51.220 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:42:51.220 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:42:51.221 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:42:51.221 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:42:51.221 [main] FreeRange - checkinrange passed with newStart 319
+[DEBUG] 2021-03-10 04:42:51.222 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:42:51.222 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:42:51.222 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:42:51.222 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:42:51.224 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:43:06.152 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:43:06.176 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:43:06.177 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:43:06.177 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:43:06.179 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:43:06.179 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:43:06.180 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:43:06.180 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:43:06.180 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:43:06.181 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:43:06.181 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:43:06.181 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:43:06.181 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:43:06.182 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:43:06.182 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:43:06.182 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:43:06.183 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:43:06.183 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:43:06.183 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:43:06.184 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:43:06.184 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:43:06.184 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:43:06.184 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:43:06.185 [main] PsuedoMatrix - going to trim row 8 9
+[INFO ] 2021-03-10 04:43:06.186 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:47:40.392 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:47:40.415 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:47:40.416 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:47:40.416 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:47:40.418 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:47:40.418 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:47:40.419 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:47:40.420 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:47:40.420 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:47:40.420 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:47:40.421 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:47:40.421 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:47:40.421 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:47:40.422 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:47:40.422 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:47:40.422 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:47:40.423 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:47:40.423 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:47:40.423 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:47:40.424 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:47:40.424 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:47:40.424 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:47:40.425 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:47:40.425 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:47:40.426 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:47:40.426 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:47:40.426 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:47:40.426 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:47:40.426 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:47:40.427 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:47:40.427 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:47:40.427 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:47:40.428 [main] PsuedoMatrix - hmm 0 19
+[INFO ] 2021-03-10 04:47:40.429 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:49:10.521 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:49:10.547 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:49:10.547 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:49:10.548 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:49:10.548 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:49:10.548 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:49:10.550 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:49:10.550 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:49:10.551 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:49:10.551 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:49:10.551 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:49:10.551 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:49:10.552 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:49:10.552 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:49:10.552 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:49:10.553 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:49:10.553 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:49:10.553 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:49:10.553 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:49:10.554 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:49:10.554 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:49:10.555 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:49:10.555 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:49:10.555 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:49:10.555 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:49:10.556 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:49:10.556 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:49:10.556 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:49:10.556 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:49:10.556 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:49:10.557 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:49:10.557 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:49:10.558 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:49:10.558 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:49:10.558 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:49:10.558 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:49:10.558 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:49:10.559 [main] PsuedoMatrix - hmm 0 19
+[INFO ] 2021-03-10 04:49:10.560 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:51:16.055 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:51:16.078 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:51:16.078 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:51:16.079 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:51:16.082 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.082 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:51:16.082 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:16.082 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.084 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:51:16.084 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:51:16.084 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:51:16.085 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.085 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:51:16.085 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:16.085 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:16.085 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:51:16.086 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:16.086 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.086 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:51:16.086 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:51:16.087 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:51:16.087 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.087 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:51:16.087 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:16.087 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:16.088 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:51:16.088 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:16.088 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.088 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:51:16.089 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:51:16.089 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:51:16.089 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.089 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:51:16.090 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:16.090 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:16.090 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:51:16.090 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:16.090 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.091 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:51:16.091 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:51:16.091 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:51:16.091 [main] PsuedoMatrix - range end set 
+[DEBUG] 2021-03-10 04:51:16.092 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:51:16.092 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:16.092 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:16.092 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:51:16.092 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:16.093 [main] PsuedoMatrix - range end set 
+[INFO ] 2021-03-10 04:51:16.094 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:51:41.231 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:51:41.254 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:51:41.255 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:51:41.255 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:51:41.256 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.256 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:51:41.256 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:41.256 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.258 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:51:41.259 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:51:41.259 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:51:41.259 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.259 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:51:41.259 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:41.260 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:41.260 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:51:41.260 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:41.260 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.260 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:51:41.261 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:51:41.261 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:51:41.261 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.261 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:51:41.262 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:41.262 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:41.262 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:51:41.262 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:41.262 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.263 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:51:41.263 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:51:41.263 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:51:41.264 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:41.265 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.265 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:51:41.265 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:51:41.265 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:51:41.266 [main] PsuedoMatrix - range end set -1
+[DEBUG] 2021-03-10 04:51:41.266 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:51:41.266 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:51:41.266 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:51:41.267 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:51:41.267 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:51:41.267 [main] PsuedoMatrix - range end set -1
+[INFO ] 2021-03-10 04:51:41.269 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:53:12.572 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:53:12.593 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:53:12.593 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:53:12.594 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:53:12.594 [main] PsuedoMatrix - range end set -1 start 2
+[DEBUG] 2021-03-10 04:53:12.594 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:53:12.594 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:53:12.595 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:53:12.596 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:53:12.597 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:53:12.597 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:53:12.597 [main] PsuedoMatrix - range end set -1 start 4
+[DEBUG] 2021-03-10 04:53:12.597 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:53:12.597 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:53:12.598 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:53:12.598 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:53:12.598 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:53:12.598 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:53:12.599 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:53:12.599 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:53:12.599 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:53:12.599 [main] PsuedoMatrix - range end set -1 start 4
+[DEBUG] 2021-03-10 04:53:12.599 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:53:12.600 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:53:12.600 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:53:12.600 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:53:12.600 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:53:12.600 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:53:12.601 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:53:12.601 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:53:12.601 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:53:12.601 [main] PsuedoMatrix - range end set -1 start 10
+[DEBUG] 2021-03-10 04:53:12.601 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:53:12.602 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:53:12.602 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:53:12.602 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:53:12.602 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:53:12.603 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:53:12.603 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:53:12.603 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:53:12.603 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - range end set -1 start 3
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:53:12.604 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:53:12.605 [main] PsuedoMatrix - range end set -1 start 0
+[INFO ] 2021-03-10 04:53:12.606 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:54:55.609 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:54:55.630 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:54:55.632 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:54:55.632 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:54:55.632 [main] PsuedoMatrix - range end set -1 start 2
+[DEBUG] 2021-03-10 04:54:55.632 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:54:55.632 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:54:55.633 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:54:55.635 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:54:55.635 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:54:55.635 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:54:55.635 [main] PsuedoMatrix - range end set -1 start 4
+[DEBUG] 2021-03-10 04:54:55.636 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:54:55.636 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:54:55.636 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:54:55.637 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:54:55.637 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:54:55.637 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:54:55.638 [main] FreeRange - checkinrange passed with newStart 4
+[DEBUG] 2021-03-10 04:54:55.638 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:54:55.638 [main] PsuedoMatrix - hmm 4 19
+[DEBUG] 2021-03-10 04:54:55.639 [main] PsuedoMatrix - range end set -1 start 4
+[DEBUG] 2021-03-10 04:54:55.639 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:54:55.639 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:54:55.639 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:54:55.640 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:54:55.640 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:54:55.640 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:54:55.641 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:54:55.641 [main] PsuedoMatrix - going to trim row 6
+[DEBUG] 2021-03-10 04:54:55.641 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:54:55.641 [main] PsuedoMatrix - range end set -1 start 10
+[DEBUG] 2021-03-10 04:54:55.642 [main] PsuedoMatrix - going to trim row 6 5
+[DEBUG] 2021-03-10 04:54:55.642 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:54:55.642 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:54:55.642 [main] PsuedoMatrix - going to trim row 6 7
+[DEBUG] 2021-03-10 04:54:55.642 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:54:55.643 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:54:55.643 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 04:54:55.643 [main] PsuedoMatrix - going to trim row 8
+[DEBUG] 2021-03-10 04:54:55.644 [main] PsuedoMatrix - hmm 3 19
+[DEBUG] 2021-03-10 04:54:55.644 [main] PsuedoMatrix - range end set -1 start 3
+[DEBUG] 2021-03-10 04:54:55.644 [main] PsuedoMatrix - going to trim row 8 7
+[DEBUG] 2021-03-10 04:54:55.644 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:54:55.644 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:54:55.645 [main] PsuedoMatrix - going to trim row 8 9
+[DEBUG] 2021-03-10 04:54:55.645 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:54:55.645 [main] PsuedoMatrix - range end set -1 start 0
+[INFO ] 2021-03-10 04:54:55.646 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:56:22.575 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:56:22.596 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:56:22.596 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:56:22.597 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:56:22.597 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.597 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:56:22.597 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:56:22.598 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:56:22.599 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 04:56:22.599 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:56:22.599 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 04:56:22.600 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.600 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:56:22.600 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:56:22.601 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.601 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:56:22.601 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:56:22.601 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:56:22.601 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.603 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:56:22.603 [main] PsuedoMatrix - hmm 12 -1
+[DEBUG] 2021-03-10 04:56:22.603 [main] PsuedoMatrix - going to trim columns at 12 -1
+[DEBUG] 2021-03-10 04:56:22.604 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:56:22.604 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:56:22.604 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:56:22.604 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.605 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:56:22.605 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:56:22.605 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:56:22.605 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:56:22.606 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:56:22.606 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:56:22.606 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:56:22.607 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.607 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:56:22.607 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:56:22.607 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:56:22.608 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:56:22.608 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 04:56:22.608 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:56:22.608 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 04:56:22.608 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 04:56:22.609 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:56:22.609 [main] PsuedoMatrix - hmm 19 -1
+[DEBUG] 2021-03-10 04:56:22.609 [main] PsuedoMatrix - going to trim columns at 19 -1
+[DEBUG] 2021-03-10 04:56:22.609 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:56:22.610 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:56:22.610 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 04:56:22.611 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:57:10.111 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:57:10.131 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:57:10.132 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:57:10.132 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:57:10.132 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:57:10.132 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:57:10.133 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:57:10.133 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:57:10.134 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 04:57:10.135 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:57:10.135 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 04:57:10.135 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:57:10.135 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:57:10.135 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:57:10.136 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:57:10.136 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:57:10.136 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:57:10.136 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:57:10.137 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:57:10.137 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:57:10.137 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:57:10.137 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:57:10.137 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:57:10.138 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:57:10.138 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:57:10.138 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:57:10.138 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:57:10.138 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:57:10.139 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:57:10.139 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:57:10.139 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:57:10.140 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:57:10.140 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:57:10.140 [main] PsuedoMatrix - going to trim columns
+[DEBUG] 2021-03-10 04:57:10.141 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:57:10.141 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:57:10.141 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:57:10.142 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 04:57:10.142 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:57:10.142 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 04:57:10.142 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 04:57:10.143 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:57:10.143 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:57:10.143 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:57:10.143 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:57:10.143 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:57:10.144 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 04:57:10.145 [main] App - stopping simulation...
+[INFO ] 2021-03-10 04:58:41.761 [main] App - starting simulation...
+[DEBUG] 2021-03-10 04:58:41.784 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 04:58:41.784 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:58:41.784 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 04:58:41.785 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 04:58:41.785 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:58:41.785 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:58:41.785 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:58:41.787 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 04:58:41.787 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:58:41.787 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 04:58:41.787 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 04:58:41.788 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:58:41.788 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:58:41.788 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:58:41.788 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 04:58:41.789 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:58:41.789 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 04:58:41.789 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 04:58:41.789 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:58:41.789 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 04:58:41.790 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:58:41.790 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 04:58:41.790 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 04:58:41.790 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:58:41.791 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:58:41.791 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:58:41.791 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:58:41.792 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:58:41.792 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 04:58:41.792 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 04:58:41.793 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 04:58:41.793 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 04:58:41.793 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 04:58:41.794 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 04:58:41.794 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 04:58:41.794 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:58:41.794 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 04:58:41.795 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 04:58:41.795 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 04:58:41.795 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 04:58:41.795 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 04:58:41.795 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 04:58:41.796 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 04:58:41.796 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 04:58:41.796 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 04:58:41.796 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 04:58:41.797 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:02:03.411 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:02:03.436 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:02:03.440 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.440 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:03.441 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 05:02:03.441 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:03.442 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:03.442 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:03.443 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:02:03.445 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:02:03.445 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.446 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:03.446 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 05:02:03.446 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:03.446 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:03.447 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:03.447 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:03.448 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:03.448 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:02:03.448 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.449 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:02:03.449 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 05:02:03.449 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:03.450 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:02:03.450 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:03.450 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:02:03.450 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:02:03.451 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:03.451 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:02:03.451 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:02:03.452 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.452 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:02:03.452 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:02:03.452 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:03.453 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:02:03.453 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:02:03.453 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:03.453 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:02:03.454 [main] PsuedoMatrix - trim start and trim end 
+[DEBUG] 2021-03-10 05:02:03.454 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:02:03.454 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 05:02:03.454 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 05:02:03.455 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:02:03.455 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:03.455 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:02:03.455 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:02:03.455 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:03.456 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 05:02:03.457 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:02:44.316 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:02:44.346 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:02:44.347 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:02:44.347 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:44.347 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 05:02:44.348 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:44.348 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:44.349 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:44.349 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:02:44.351 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:02:44.351 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:02:44.352 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:44.352 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 05:02:44.352 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:44.353 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:44.354 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:44.354 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:02:44.354 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:02:44.354 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:02:44.354 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:02:44.355 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:44.356 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:02:44.356 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:44.356 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:02:44.357 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:02:44.357 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:02:44.357 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 05:02:44.357 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:44.358 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:02:44.358 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:44.358 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:02:44.358 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:02:44.359 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:44.359 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:02:44.360 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:02:44.360 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:02:44.361 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:02:44.361 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:02:44.361 [main] PsuedoMatrix - going to trim columns 2
+[DEBUG] 2021-03-10 05:02:44.361 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:02:44.362 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:02:44.362 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:44.362 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:02:44.362 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:02:44.362 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:02:44.362 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 05:02:44.363 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 05:02:44.363 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:02:44.363 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:02:44.363 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:02:44.363 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:02:44.364 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:02:44.365 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 05:02:44.366 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:04:53.524 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:04:53.547 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:04:53.548 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:04:53.548 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:04:53.548 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 05:04:53.548 [main] PsuedoMatrix - going to trim columns @2 2 19
+[DEBUG] 2021-03-10 05:04:53.548 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:04:53.549 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:04:53.549 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:04:53.550 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:04:53.550 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:04:53.551 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:04:53.551 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 05:04:53.551 [main] PsuedoMatrix - going to trim columns @2 9 19
+[DEBUG] 2021-03-10 05:04:53.551 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:04:53.552 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:04:53.552 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:04:53.552 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:04:53.552 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:04:53.552 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:04:53.553 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:04:53.553 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:04:53.553 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:04:53.553 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:04:53.553 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:04:53.554 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:04:53.554 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 05:04:53.554 [main] PsuedoMatrix - going to trim columns @2 10 19
+[DEBUG] 2021-03-10 05:04:53.554 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:04:53.554 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:04:53.555 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:04:53.555 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:04:53.555 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:04:53.555 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:04:53.556 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:04:53.556 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:04:53.556 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:04:53.556 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:04:53.557 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:04:53.557 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:04:53.557 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:04:53.557 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:04:53.558 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:04:53.558 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:04:53.558 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:04:53.559 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 05:04:53.559 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 05:04:53.559 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:04:53.559 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:04:53.560 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:04:53.560 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:04:53.560 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:04:53.560 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 05:04:53.561 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:05:28.203 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:05:28.221 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:05:28.222 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:05:28.222 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:05:28.222 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 05:05:28.222 [main] PsuedoMatrix - going to trim columns @2 2 19
+[DEBUG] 2021-03-10 05:05:28.223 [main] PsuedoMatrix - going to trim columns @2 final 5 19
+[DEBUG] 2021-03-10 05:05:28.223 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:05:28.223 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:05:28.224 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:05:28.225 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:05:28.225 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:05:28.226 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:05:28.226 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 05:05:28.226 [main] PsuedoMatrix - going to trim columns @2 9 19
+[DEBUG] 2021-03-10 05:05:28.226 [main] PsuedoMatrix - going to trim columns @2 final 12 19
+[DEBUG] 2021-03-10 05:05:28.227 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:05:28.227 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:05:28.227 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:05:28.228 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:05:28.229 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:05:28.229 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:05:28.229 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:05:28.229 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:05:28.229 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 05:05:28.230 [main] PsuedoMatrix - going to trim columns @2 10 19
+[DEBUG] 2021-03-10 05:05:28.230 [main] PsuedoMatrix - going to trim columns @2 final 13 19
+[DEBUG] 2021-03-10 05:05:28.230 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:05:28.230 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:05:28.230 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:05:28.231 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:05:28.231 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:05:28.231 [main] PsuedoMatrix - range end set -1 start 0
+[DEBUG] 2021-03-10 05:05:28.231 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:05:28.232 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:05:28.233 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:05:28.233 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:05:28.233 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:05:28.233 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:05:28.233 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 05:05:28.233 [main] PsuedoMatrix - going to trim columns at 18 19
+[DEBUG] 2021-03-10 05:05:28.234 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:05:28.234 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:05:28.234 [main] PsuedoMatrix - going to trim columns at 0 -1
+[DEBUG] 2021-03-10 05:05:28.234 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:05:28.235 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:05:28.235 [main] PsuedoMatrix - going to trim columns at 0 19
+[INFO ] 2021-03-10 05:05:28.236 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:07:06.739 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:07:06.762 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:07:06.763 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:07:06.763 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:07:06.764 [main] PsuedoMatrix - hmm 2 19
+[DEBUG] 2021-03-10 05:07:06.764 [main] PsuedoMatrix - going to trim columns @2 2 19
+[DEBUG] 2021-03-10 05:07:06.764 [main] PsuedoMatrix - going to trim columns @2 final 5 19
+[DEBUG] 2021-03-10 05:07:06.765 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:07:06.765 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:07:06.765 [main] PsuedoMatrix - going to trim columns @1 0 19
+[DEBUG] 2021-03-10 05:07:06.766 [main] PsuedoMatrix - going to trim columns @1 final 0 -1
+[DEBUG] 2021-03-10 05:07:06.767 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:07:06.768 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:07:06.768 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:07:06.768 [main] PsuedoMatrix - hmm 9 19
+[DEBUG] 2021-03-10 05:07:06.768 [main] PsuedoMatrix - going to trim columns @2 9 19
+[DEBUG] 2021-03-10 05:07:06.769 [main] PsuedoMatrix - going to trim columns @2 final 12 19
+[DEBUG] 2021-03-10 05:07:06.769 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:07:06.769 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:07:06.769 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:07:06.770 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:07:06.770 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:07:06.770 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:07:06.770 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:07:06.770 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:07:06.771 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:07:06.771 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:07:06.772 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:07:06.772 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:07:06.772 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:07:06.772 [main] PsuedoMatrix - hmm 10 19
+[DEBUG] 2021-03-10 05:07:06.773 [main] PsuedoMatrix - going to trim columns @2 10 19
+[DEBUG] 2021-03-10 05:07:06.773 [main] PsuedoMatrix - going to trim columns @2 final 13 19
+[DEBUG] 2021-03-10 05:07:06.773 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:07:06.773 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:07:06.773 [main] PsuedoMatrix - going to trim columns at @0 0 -1
+[DEBUG] 2021-03-10 05:07:06.774 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:07:06.774 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:07:06.774 [main] PsuedoMatrix - going to trim columns @1 0 19
+[DEBUG] 2021-03-10 05:07:06.774 [main] PsuedoMatrix - going to trim columns @1 final 0 -1
+[DEBUG] 2021-03-10 05:07:06.775 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:07:06.775 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:07:06.775 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:07:06.775 [main] PsuedoMatrix - hmm 16 19
+[DEBUG] 2021-03-10 05:07:06.776 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:07:06.776 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:07:06.776 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:07:06.776 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:07:06.777 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:07:06.777 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:07:06.777 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:07:06.777 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:07:06.778 [main] PsuedoMatrix - hmm 18 19
+[DEBUG] 2021-03-10 05:07:06.778 [main] PsuedoMatrix - going to trim columns at @0 18 19
+[DEBUG] 2021-03-10 05:07:06.778 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:07:06.778 [main] PsuedoMatrix - hmm 0 -1
+[DEBUG] 2021-03-10 05:07:06.779 [main] PsuedoMatrix - going to trim columns at @0 0 -1
+[DEBUG] 2021-03-10 05:07:06.779 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:07:06.779 [main] PsuedoMatrix - hmm 0 19
+[DEBUG] 2021-03-10 05:07:06.779 [main] PsuedoMatrix - going to trim columns at @0 0 19
+[INFO ] 2021-03-10 05:07:06.780 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:10:22.711 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:10:22.724 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:10:22.724 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:10:22.724 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:10:22.724 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:10:22.724 [main] PsuedoMatrix - going to trim columns @2 2 19
+[DEBUG] 2021-03-10 05:10:22.724 [main] PsuedoMatrix - going to trim columns @2 final 5 19
+[DEBUG] 2021-03-10 05:10:22.725 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:10:22.725 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:10:22.725 [main] PsuedoMatrix - going to trim columns @1 0 19
+[DEBUG] 2021-03-10 05:10:22.725 [main] PsuedoMatrix - going to trim columns @1 final 0 -1
+[DEBUG] 2021-03-10 05:10:22.726 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:10:22.726 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:10:22.726 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:10:22.726 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - going to trim columns @2 9 19
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - going to trim columns @2 final 12 19
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:10:22.727 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:10:22.727 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:10:22.728 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - going to trim columns @2 10 19
+[DEBUG] 2021-03-10 05:10:22.728 [main] PsuedoMatrix - going to trim columns @2 final 13 19
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - going to trim columns at @0 0 -1
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - going to trim columns @1 0 19
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - going to trim columns @1 final 0 -1
+[DEBUG] 2021-03-10 05:10:22.729 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:10:22.729 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - going to trim columns @2 16 19
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - going to trim columns @2 final 19 19
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:10:22.730 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:10:22.730 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim columns at @0 18 19
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim columns at @0 0 -1
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim row 4 5
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:10:22.731 [main] PsuedoMatrix - going to trim columns at @0 0 19
+[INFO ] 2021-03-10 05:10:22.732 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:14:47.256 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:14:47.268 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:14:47.269 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:14:47.269 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:14:47.269 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:14:47.270 [main] FreeRange - checkinrange passed with newStart 6
+[DEBUG] 2021-03-10 05:14:47.270 [main] PsuedoMatrix - trim start and trim end 0 8
+[DEBUG] 2021-03-10 05:14:47.270 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:14:47.270 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:14:47.270 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - trim start and trim end 3 12
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - trim start and trim end 7 19
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:14:47.271 [main] FreeRange - checkinrange passed with newStart 3
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - trim start and trim end 0 5
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 1
+[DEBUG] 2021-03-10 05:14:47.271 [main] PsuedoMatrix - going to trim row 1 0
+[DEBUG] 2021-03-10 05:14:47.272 [main] PsuedoMatrix - going to trim row 1 2
+[DEBUG] 2021-03-10 05:14:47.272 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:14:47.272 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:14:47.272 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:14:47.272 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:14:47.272 [main] PsuedoMatrix - going to trim row 2 3
+[INFO ] 2021-03-10 05:14:47.273 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:28:00.940 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:28:00.953 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:28:00.953 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:28:00.953 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:28:00.954 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:28:00.955 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:28:00.955 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:28:00.955 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:28:00.955 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:28:00.955 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:28:00.955 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:28:00.956 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:28:00.956 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:28:00.956 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:28:00.956 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:28:00.956 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:28:00.957 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:28:00.957 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:28:00.957 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:28:00.957 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:28:00.957 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:28:00.958 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:28:00.958 [main] PsuedoMatrix - going to trim row 4 5
+[INFO ] 2021-03-10 05:28:00.960 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:43:12.239 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:43:12.251 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:43:12.251 [main] PsuedoMatrix - trim start and trim end 0 4
+[DEBUG] 2021-03-10 05:43:12.252 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:43:12.252 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:43:12.253 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:43:12.253 [main] PsuedoMatrix - trim start and trim end 2 11
+[DEBUG] 2021-03-10 05:43:12.253 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:43:12.253 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:43:12.253 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:43:12.253 [main] PsuedoMatrix - trim start and trim end 9 18
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - going to trim row 0
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - going to trim row 0 1
+[DEBUG] 2021-03-10 05:43:12.254 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - trim start and trim end 0 12
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:43:12.254 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:43:12.255 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - trim start and trim end 10 18
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - going to trim row 2
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - going to trim row 2 1
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - going to trim row 2 3
+[DEBUG] 2021-03-10 05:43:12.255 [main] FreeRange - checkinrange passed with newStart 18
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - trim start and trim end 0 19
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - going to trim row 4
+[DEBUG] 2021-03-10 05:43:12.255 [main] PsuedoMatrix - going to trim row 4 3
+[DEBUG] 2021-03-10 05:43:12.256 [main] PsuedoMatrix - going to trim row 4 5
+[INFO ] 2021-03-10 05:43:12.256 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:44:09.169 [main] App - starting simulation...
+[DEBUG] 2021-03-10 05:44:09.181 [main] FreeRange - checkinrange passed with newStart 2
+[DEBUG] 2021-03-10 05:44:09.182 [main] FreeRange - checkinrange passed with newStart 9
+[DEBUG] 2021-03-10 05:44:09.182 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:44:09.183 [main] FreeRange - checkinrange passed with newStart 10
+[DEBUG] 2021-03-10 05:44:09.183 [main] FreeRange - checkinrange passed with newStart 16
+[DEBUG] 2021-03-10 05:44:09.183 [main] FreeRange - checkinrange passed with newStart 18
+[INFO ] 2021-03-10 05:44:09.184 [main] App - stopping simulation...
+[INFO ] 2021-03-10 05:44:27.377 [main] App - starting simulation...
+[INFO ] 2021-03-10 05:44:27.390 [main] App - stopping simulation...
