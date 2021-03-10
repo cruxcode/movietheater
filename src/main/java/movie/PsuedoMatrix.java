@@ -1,7 +1,9 @@
 package movie;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.LinkedList;
+import java.util.ListIterator;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -12,6 +14,7 @@ public class PsuedoMatrix {
 	private static Logger logger = LogManager.getLogger(PsuedoMatrix.class);
 	private Integer numRows;
 	private Integer numCols;
+	private Integer bufferSeats;
 	private ArrayList<LinkedList<FreeRange>> rows;
 	public Integer getNumRows() {
 		return numRows;
@@ -26,9 +29,10 @@ public class PsuedoMatrix {
 		this.numCols = numCols;
 	}
 	
-	PsuedoMatrix(Integer numRows, Integer numCols){
+	PsuedoMatrix(Integer numRows, Integer numCols, Integer bufferSeats){
 		this.numRows = numRows;
 		this.numCols = numCols;
+		this.bufferSeats = bufferSeats;
 		// Initialize rows
 		this.rows = new ArrayList<LinkedList<FreeRange>>(this.numRows);
 		for(Integer i = 0; i < numRows; i++) {
@@ -42,18 +46,70 @@ public class PsuedoMatrix {
 		if(!(this.checkRowExists(row) && this.checkColumnExists(num1) && this.checkColumnExists(num2))) {
 			return null;
 		}
+		FreeRange[] resultRanges = null;
 		LinkedList<FreeRange> list = this.rows.get(row);
 		for (FreeRange range: list) {
 			if(range.validOccupyInput(num1, num2)) {
-				FreeRange[] resultRanges = range.occupy(num1, num2);
+				resultRanges = range.occupy(num1, num2);
 				addRemoveList(list, range, resultRanges);
-				return resultRanges[0];
+				break;
 			}
+		}
+		if(resultRanges != null) {
+			this.ensurePublicSafety(resultRanges, row);
+			return  resultRanges[0];
 		}
 		return null;
 	}
 	
-	private static void addRemoveList(LinkedList<FreeRange> list, FreeRange oldRange, FreeRange[] newRange) {
+	private void ensurePublicSafety(FreeRange[] resultRanges, Integer row) {
+		LinkedList<FreeRange> list = this.rows.get(row);
+		Integer trimStart = resultRanges[0].getStart() - this.bufferSeats;
+		if(trimStart < 0)
+			trimStart = 0;
+		Integer trimEnd = resultRanges[0].getEnd() + this.bufferSeats;
+		if(trimEnd >= this.numCols)
+			trimEnd = this.numCols - 1;
+		
+		trimFreeRanges(list, trimStart, trimEnd);
+		if(this.checkRowExists(row - 1)) {
+			trimFreeRanges(this.rows.get(row - 1), trimStart, trimEnd);
+		}
+		if(this.checkRowExists(row + 1)) {
+			trimFreeRanges(this.rows.get(row + 1), trimStart, trimEnd);
+		}
+	}
+	
+	public static void trimFreeRanges(LinkedList<FreeRange> list, Integer trimStart, Integer trimEnd) {
+		Iterator<FreeRange> iter = list.iterator();
+		while(iter.hasNext()) {
+			FreeRange range = iter.next();
+			// full overlap and range is small or equal to
+			if(range.getStart() >= trimStart && range.getEnd() <= trimEnd) {
+				iter.remove();
+			}
+			// full overlap and range is bigger
+			else if(range.getStart() < trimStart && range.getEnd() > trimEnd) {
+				int index = list.indexOf(range);
+				FreeRange left = new FreeRange(range.getStart(), trimStart - 1);
+				FreeRange right = new FreeRange(trimEnd + 1, range.getEnd());
+				list.add(index, right);
+				list.add(index, left);
+				list.remove(range);
+				break;
+			}
+			// partial right overlap
+			else if(range.getStart() < trimStart && range.getEnd() >= trimStart) {
+				range.setEnd(trimStart - 1);
+			}
+			// partial left overlap
+			else if(range.getStart() <= trimEnd && range.getEnd() > trimEnd) {
+				range.setStart(trimEnd + 1);
+			}
+		}
+	}
+	
+	public static void addRemoveList(LinkedList<FreeRange> list, FreeRange oldRange, FreeRange[] newRange) {
 		int index = list.indexOf(oldRange);
 		ArrayList<FreeRange> newRangeList = new ArrayList<FreeRange>(2);
 		if(newRange[1] != null)

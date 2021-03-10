@@ -16,17 +16,24 @@ public class App
 	private static AllocatorStrategy allocator;
     public static void main( String[] args )
     {
-        logger.info("starting simulation...");
         if(args.length != 1) {
         	logger.fatal("exactly one argument is required");
         	return;
         }
+        String filename = args[0];
         Integer numRows = 10;
         Integer numCols = 20;
         allocator = new BaselineAllocator();
+        run(allocator, numRows, numCols, filename);
+//        typeStartMessage();
+//        allocator = new RandomAllocator();
+//        run(allocator, numRows, numCols, filename);
+    }
+    
+    private static void run(AllocatorStrategy allocator, Integer numRows, Integer numCols, String filename) {
         allocator.setSize(numRows, numCols);
-        File inputFile = new File(args[0]);
-        File outputFile = new File(args[0]+".output");
+        File inputFile = new File(filename);
+        File outputFile = new File(filename+".output.txt");
         String[] splits = null;
         Scanner reader = null;
         FileWriter writer = null;
@@ -41,28 +48,27 @@ public class App
 				return;
 			}
 		} catch (FileNotFoundException e) {
-			logger.fatal("input file does not exist");
+			logger.fatal("input file does not exist", e);
 			return;
-		} catch (IOException e) {
-			logger.fatal("IOException", e);
 		}
+
         while(reader.hasNextLine()) {
 			String line = reader.nextLine();
 			splits = line.split(" ");
 			try {
-			if(splits.length < 2) {
-				logger.fatal("bad input file");
-				closeFilesSafely(reader, writer);
-				return;
-			}
-	        String reqName = splits[0];
-	        Integer numSeats = null;
-	        numSeats = Integer.parseInt(splits[1]);
-	        AllocatorResult result = allocator.allocate(numSeats);
-	        if(result != null) {
-	           	System.out.println(reqName + " " + result);
-	           	writer.write(reqName + " " + result + "\n");
-	        }
+				if(splits.length < 2) {
+					logger.fatal("bad input file");
+					closeFilesSafely(reader, writer);
+					return;
+				}
+				String reqName = splits[0];
+				Integer numSeats = null;
+				numSeats = Integer.parseInt(splits[1]);
+				AllocatorResult result = allocator.allocate(numSeats);
+				if(result != null) {
+					logger.debug(reqName + " " + result);
+					writer.write(reqName + " " + result + "\n");
+				}
 	        } catch (Exception e) {
 	        	closeFilesSafely(reader, writer);
 	        	logger.fatal("second split should be an integer", e);
@@ -70,7 +76,7 @@ public class App
 		}
         
 		closeFilesSafely(reader, writer);
-        logger.info("stopping simulation...");
+		System.out.print(outputFile.getAbsolutePath());
     }
     
     private static void closeFilesSafely(Scanner reader, FileWriter writer) {
@@ -80,5 +86,9 @@ public class App
 		} catch (IOException e) {
 			logger.error("unable to close final", e);
 		}
+    }
+    
+    private static void typeStartMessage() {
+    	logger.debug("\nstarting simulation...\n");
     }
 }

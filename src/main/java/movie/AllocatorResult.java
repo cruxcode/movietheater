@@ -1,5 +1,7 @@
 package movie;
 
+import java.util.StringJoiner;
+
 public class AllocatorResult {
 	private Integer row;
 	private Integer start;
@@ -19,6 +21,14 @@ public class AllocatorResult {
 		this.end = end;
 	}
 	public String toString() {
-		return this.row.toString() + " " + this.start.toString() + " " + this.end.toString();
+		String rowName = convertToChar(this.getRow());
+		StringJoiner joiner = new StringJoiner(" ");
+		for(Integer i = this.getStart(); i <= this.getEnd(); i++) {
+			joiner.add(rowName + i);
+		}
+		return joiner.toString();
+	}
+	public static String convertToChar(Integer row) {
+		return Character.toString((char)(row + 65));
 	}
 }
