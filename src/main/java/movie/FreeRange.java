@@ -1,7 +1,12 @@
 package movie;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class FreeRange {
+	private static Logger logger = LogManager.getLogger(FreeRange.class);
 	private Integer start;
+	private Integer end;
 	public Integer getStart() {
 		return start;
 	}
@@ -14,7 +19,7 @@ public class FreeRange {
 	public void setEnd(Integer end) {
 		this.end = end;
 	}
-	private Integer end;
+	
 	FreeRange(Integer num1, Integer num2){
 		this.setStart(getSmaller(num1, num2));
 		this.setEnd(getBigger(num1, num2));

@@ -11,24 +11,36 @@ public class App
     public static void main( String[] args )
     {
         logger.info("starting simulation...");
-        if(args.length < 2) {
-        	logger.fatal("less than two arguments passed");
-        	return;
-        }
-        Integer numRows, numCols;
-        try {
-            numRows = Integer.parseInt(args[0]);
-            numCols = Integer.parseInt(args[1]);
-        } catch (Exception e) {
-        	logger.fatal("error in conversion of arguments", e);
-        	return;
-        }
+        Integer numRows = 10;
+        Integer numCols = 20;
 
         
         allocator = new BaselineAllocator();
         allocator.setSize(numRows, numCols);
         AllocatorResult result = allocator.allocate(5);
-        System.out.print(result.toString());
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
+        result = allocator.allocate(3);
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
+        result = allocator.allocate(3);
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
+        result = allocator.allocate(1);
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
+        result = allocator.allocate(10);
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
+        result = allocator.allocate(15);
+        if(result != null) {
+        	System.out.println(result.toString());
+        }
         logger.info("stopping simulation...");
     }
 }
