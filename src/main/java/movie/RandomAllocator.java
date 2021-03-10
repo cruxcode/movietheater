@@ -21,7 +21,7 @@ public class RandomAllocator implements AllocatorStrategy {
 		HashSet<Integer> rowsChecked = new HashSet<Integer>();
 		while(rowsChecked.size() < this.matrix.getNumRows()) {
 			// randomly choose a row
-			Integer row = getRandomRow(this.matrix.getNumRows());
+			Integer row = this.getRandomRow(this.matrix.getNumRows());
 			rowsChecked.add(row);
 			// then do a least loss over the columns
 			FreeRange range = this.findLeastLossFreeRange(this.matrix.getRow(row), numSeats);
@@ -49,7 +49,7 @@ public class RandomAllocator implements AllocatorStrategy {
 		return minCostlyRange;
 	}
 	
-	public static Integer getRandomRow(Integer max){
+	public Integer getRandomRow(Integer max){
 		Random random = new Random();
 		return random.nextInt(max);
 	}
