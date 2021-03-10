@@ -122,14 +122,14 @@ public class PsuedoMatrix {
 		}
 	}
 	
-	private boolean checkRowExists(Integer num){
+	public boolean checkRowExists(Integer num){
 		if(num >=0 && num < this.numRows) {
 			return true;
 		}
 		return false;
 	}
 	
-	private boolean checkColumnExists(Integer num) {
+	public boolean checkColumnExists(Integer num) {
 		if(num >=0 && num < this.numCols) {
 			return true;
 		}

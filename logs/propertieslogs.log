@@ -172,3 +172,4 @@
 [FATAL] 2021-03-10 14:47:06.284 [main] BaselineAllocator - setSize must be called first before calling allocate
 [FATAL] 2021-03-10 14:47:49.091 [main] BaselineAllocator - setSize must be called first before calling allocate
 [FATAL] 2021-03-10 14:50:36.520 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 15:31:21.119 [main] BaselineAllocator - setSize must be called first before calling allocate
