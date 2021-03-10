@@ -13,7 +13,8 @@ public class BaselineAllocator implements AllocatorStrategy {
 	private PsuedoMatrix matrix;
 	@Override
 	public void setSize(Integer numRows, Integer numCols) {
-		this.matrix = new PsuedoMatrix(numRows, numCols, 3);
+		Integer bufferSize = 3;
+		this.matrix = new PsuedoMatrix(numRows, numCols, bufferSize);
 	}
 
 	@Override

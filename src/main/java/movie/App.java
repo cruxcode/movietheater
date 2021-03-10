@@ -21,12 +21,20 @@ public class App
         	logger.fatal("exactly one argument is required");
         	return;
         }
+        String filename = args[0];
         Integer numRows = 10;
         Integer numCols = 20;
-        allocator = new BaselineAllocator();
+//        allocator = new BaselineAllocator();
+//        run(allocator, numRows, numCols, filename);
+        allocator = new RandomAllocator();
+        run(allocator, numRows, numCols, filename);
+        logger.info("stopping simulation...");
+    }
+    
+    private static void run(AllocatorStrategy allocator, Integer numRows, Integer numCols, String filename) {
         allocator.setSize(numRows, numCols);
-        File inputFile = new File(args[0]);
-        File outputFile = new File(args[0]+".output.txt");
+        File inputFile = new File(filename);
+        File outputFile = new File(filename+".output.txt");
         String[] splits = null;
         try {
 			Scanner reader = new Scanner(inputFile);
@@ -70,7 +78,5 @@ public class App
 		} catch (IOException e) {
 			logger.fatal("IOException", e);
 		}
-        logger.info("stopping simulation...");
     }
-    
 }
