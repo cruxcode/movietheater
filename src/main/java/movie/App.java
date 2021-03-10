@@ -17,6 +17,7 @@ public class App
 {
 	private static Logger logger = LogManager.getLogger(App.class);
 	private static AllocatorStrategy allocator;
+	public static String ouputSuffix = ".output.txt";
     public static void main( String[] args )
     {
     	if(!debugSet()) {
@@ -58,7 +59,7 @@ public class App
     private static void run(AllocatorStrategy allocator, Integer numRows, Integer numCols, String filename) {
         allocator.setSize(numRows, numCols);
         File inputFile = new File(filename);
-        File outputFile = new File(filename+".output.txt");
+        File outputFile = new File(filename+ouputSuffix);
         String[] splits = null;
         Scanner reader = null;
         FileWriter writer = null;

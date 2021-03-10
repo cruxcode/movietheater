@@ -283,3 +283,16 @@
 [DEBUG] 2021-03-10 15:45:54.019 [main] App - R005 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16
 [DEBUG] 2021-03-10 15:45:54.020 [main] App - R006 A12 A13 A14
 [DEBUG] 2021-03-10 15:45:54.020 [main] App - R007 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E17
+[INFO ] 2021-03-10 16:13:28.943 [main] App - strategy used is movie.RandomAllocator
+[DEBUG] 2021-03-10 16:13:28.955 [main] App - R001 D0 D1
+[DEBUG] 2021-03-10 16:13:28.955 [main] App - R002 E5 E6 E7 E8
+[DEBUG] 2021-03-10 16:13:28.956 [main] App - R003 C5 C6 C7 C8
+[DEBUG] 2021-03-10 16:13:28.956 [main] App - R005 J0 J1 J2 J3 J4 J5 J6 J7 J8 J9
+[DEBUG] 2021-03-10 16:13:28.957 [main] App - R006 C12 C13 C14
+[DEBUG] 2021-03-10 16:13:28.957 [main] App - R007 G0 G1 G2 G3 G4 G5 G6 G7 G8 G9 G10 G11 G12 G13 G14 G15 G16 G17
+[FATAL] 2021-03-10 16:14:07.558 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 16:14:48.213 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 16:16:59.439 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 16:19:32.070 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 16:21:09.514 [main] BaselineAllocator - setSize must be called first before calling allocate
+[FATAL] 2021-03-10 16:21:37.837 [main] BaselineAllocator - setSize must be called first before calling allocate
