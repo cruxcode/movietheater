@@ -18,4 +18,7 @@ public class AllocatorResult {
 		this.start = start;
 		this.end = end;
 	}
+	public String toString() {
+		return this.row.toString() + " " + this.start.toString() + " " + this.end.toString();
+	}
 }

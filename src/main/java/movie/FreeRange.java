@@ -24,14 +24,15 @@ public class FreeRange {
 		if(!this.validOccupyInput(num1, num2)) {
 			return null;
 		}
-		FreeRange[] resultingRanges = new FreeRange[2];
+		FreeRange[] resultingRanges = new FreeRange[3];
+		resultingRanges[0] = new FreeRange(getSmaller(num1, num2), getBigger(num1, num2)); 
 		Integer newEnd = getSmaller(num1, num2) - 1;
 		Integer newStart = getBigger(num1, num2) + 1;
 		if(this.checkInRange(newEnd)) {
-			resultingRanges[0] = new FreeRange(this.getStart(), newEnd);
+			resultingRanges[1] = new FreeRange(this.getStart(), newEnd);
 		}
 		if(this.checkInRange(newStart)) {
-			resultingRanges[1] = new FreeRange(newStart, this.getEnd());
+			resultingRanges[2] = new FreeRange(newStart, this.getEnd());
 		}
 		return resultingRanges;
 	}

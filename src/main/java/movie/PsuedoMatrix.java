@@ -36,18 +36,31 @@ public class PsuedoMatrix {
 		}
 	}
 	
-	boolean occupy(Integer row, Integer num1, Integer num2) {
+	FreeRange occupy(Integer row, Integer num1, Integer num2) {
 		if(this.checkRowExists(row) && this.checkColumnExists(num1) && this.checkColumnExists(num2)) {
 			logger.fatal("trying to occupy seats outside range");
-			return false;
+			return null;
 		}
 		LinkedList<FreeRange> list = this.rows.get(row);
 		for (FreeRange range: list) {
 			if(range.validOccupyInput(num1, num2)) {
-				range.occupy(num1, num2);
-				return true;
+				FreeRange[] resultRanges = range.occupy(num1, num2);
+				addRemoveList(list, range, resultRanges);
+				return resultRanges[0];
 			}
 		}
+		return null;
+	}
+	
+	private static boolean addRemoveList(LinkedList<FreeRange> list, FreeRange oldRange, FreeRange[] newRange) {
+		Integer index = list.indexOf(oldRange);
+		ArrayList<FreeRange> newRangeList = new ArrayList<FreeRange>(2);
+		newRangeList.add(newRange[0]);
+		newRangeList.add(newRange[1]);
+		if(index >= 0) {
+			list.addAll(index, newRangeList);
+		}
+		list.remove(oldRange);
 		return false;
 	}
 	
