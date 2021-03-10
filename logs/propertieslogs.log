@@ -173,3 +173,31 @@
 [FATAL] 2021-03-10 14:47:49.091 [main] BaselineAllocator - setSize must be called first before calling allocate
 [FATAL] 2021-03-10 14:50:36.520 [main] BaselineAllocator - setSize must be called first before calling allocate
 [FATAL] 2021-03-10 15:31:21.119 [main] BaselineAllocator - setSize must be called first before calling allocate
+[INFO ] 2021-03-10 15:37:11.559 [main] App - strategy used is movie.RandomAllocator
+[DEBUG] 2021-03-10 15:37:11.570 [main] App - R001 G0 G1
+[DEBUG] 2021-03-10 15:37:11.571 [main] App - R002 J0 J1 J2 J3
+[DEBUG] 2021-03-10 15:37:11.571 [main] App - R003 B0 B1 B2 B3
+[DEBUG] 2021-03-10 15:37:11.572 [main] App - R005 A7 A8 A9 A10 A11 A12 A13 A14 A15 A16
+[DEBUG] 2021-03-10 15:37:11.572 [main] App - R006 C7 C8 C9
+[DEBUG] 2021-03-10 15:37:11.572 [main] App - R007 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E17
+[INFO ] 2021-03-10 15:37:11.573 [main] App - strategy used is movie.LeastLossAllocator
+[DEBUG] 2021-03-10 15:37:11.575 [main] App - R001 A0 A1
+[DEBUG] 2021-03-10 15:37:11.575 [main] App - R002 A5 A6 A7 A8
+[DEBUG] 2021-03-10 15:37:11.575 [main] App - R003 C0 C1 C2 C3
+[DEBUG] 2021-03-10 15:37:11.576 [main] App - R005 C7 C8 C9 C10 C11 C12 C13 C14 C15 C16
+[DEBUG] 2021-03-10 15:37:11.576 [main] App - R006 A12 A13 A14
+[DEBUG] 2021-03-10 15:37:11.576 [main] App - R007 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E17
+[INFO ] 2021-03-10 15:37:11.577 [main] App - strategy used is movie.BaselineAllocator
+[DEBUG] 2021-03-10 15:37:11.578 [main] App - R001 A0 A1
+[DEBUG] 2021-03-10 15:37:11.579 [main] App - R002 A5 A6 A7 A8
+[DEBUG] 2021-03-10 15:37:11.579 [main] App - R003 A12 A13 A14 A15
+[DEBUG] 2021-03-10 15:37:11.580 [main] App - R005 C0 C1 C2 C3 C4 C5 C6 C7 C8 C9
+[DEBUG] 2021-03-10 15:37:11.580 [main] App - R006 C13 C14 C15
+[DEBUG] 2021-03-10 15:37:11.580 [main] App - R007 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E17
+[INFO ] 2021-03-10 15:37:45.429 [main] App - strategy used is movie.RandomAllocator
+[DEBUG] 2021-03-10 15:37:45.438 [main] App - R001 G0 G1
+[DEBUG] 2021-03-10 15:37:45.439 [main] App - R002 C0 C1 C2 C3
+[DEBUG] 2021-03-10 15:37:45.439 [main] App - R003 G5 G6 G7 G8
+[DEBUG] 2021-03-10 15:37:45.440 [main] App - R005 I0 I1 I2 I3 I4 I5 I6 I7 I8 I9
+[DEBUG] 2021-03-10 15:37:45.440 [main] App - R006 J13 J14 J15
+[DEBUG] 2021-03-10 15:37:45.441 [main] App - R007 E0 E1 E2 E3 E4 E5 E6 E7 E8 E9 E10 E11 E12 E13 E14 E15 E16 E17

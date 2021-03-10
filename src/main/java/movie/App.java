@@ -30,15 +30,24 @@ public class App
         Integer numRows = 10;
         Integer numCols = 20;
         if(getAlgoType() != null) {
-        	if(getAlgoType().equals("random")) {
-        		logger.info("strategy used is " + RandomAllocator.class.getName());
-        		allocator = new RandomAllocator();
-            	run(allocator, numRows, numCols, filename);
+        	String algoType = getAlgoType();
+        	switch(algoType) 
+        	{
+        		case "random":
+        			logger.info("strategy used is " + RandomAllocator.class.getName());
+        			allocator = new RandomAllocator();
+        			run(allocator, numRows, numCols, filename);
+        			break;
+        		case "leastloss":
+        			logger.info("strategy used is " + LeastLossAllocator.class.getName());
+        			allocator = new LeastLossAllocator();
+        			run(allocator, numRows, numCols, filename);
+        			break;
+        		default:
+                	logger.info("strategy used is " + BaselineAllocator.class.getName());
+                    allocator = new BaselineAllocator();
+                    run(allocator, numRows, numCols, filename);
         	}
-        } else {
-        	logger.info("strategy used is " + BaselineAllocator.class.getName());
-            allocator = new BaselineAllocator();
-            run(allocator, numRows, numCols, filename);
         }
     }
     
