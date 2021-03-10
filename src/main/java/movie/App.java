@@ -4,10 +4,13 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Map;
 import java.util.Scanner;
 
+import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.core.config.Configurator;
 
 
 public class App 
@@ -16,6 +19,9 @@ public class App
 	private static AllocatorStrategy allocator;
     public static void main( String[] args )
     {
+    	if(!debugSet()) {
+    		Configurator.setLevel("movie", Level.OFF);
+    	}
         if(args.length != 1) {
         	logger.fatal("exactly one argument is required");
         	return;
@@ -23,11 +29,17 @@ public class App
         String filename = args[0];
         Integer numRows = 10;
         Integer numCols = 20;
-        allocator = new BaselineAllocator();
-        run(allocator, numRows, numCols, filename);
-//        typeStartMessage();
-//        allocator = new RandomAllocator();
-//        run(allocator, numRows, numCols, filename);
+        if(getAlgoType() != null) {
+        	if(getAlgoType().equals("random")) {
+        		logger.info("strategy used is " + RandomAllocator.class.getName());
+        		allocator = new RandomAllocator();
+            	run(allocator, numRows, numCols, filename);
+        	}
+        } else {
+        	logger.info("strategy used is " + BaselineAllocator.class.getName());
+            allocator = new BaselineAllocator();
+            run(allocator, numRows, numCols, filename);
+        }
     }
     
     private static void run(AllocatorStrategy allocator, Integer numRows, Integer numCols, String filename) {
@@ -88,7 +100,23 @@ public class App
 		}
     }
     
-    private static void typeStartMessage() {
-    	logger.debug("\nstarting simulation...\n");
+    private static boolean debugSet() {
+    	Map<String, String> env = System.getenv();
+    	String envName = "APPDEBUG";
+    	if(env.get(envName) != null) {
+    		if(env.get(envName).equals("true"))
+    			return true;
+    	}
+        return false;
+    }
+    
+    private static String getAlgoType() {
+    	Map<String, String> env = System.getenv();
+    	String envName = "MOVIEALLOC";
+    	if(env.get(envName) != null) {
+    		return env.get(envName);
+    	}
+
+        return null;
     }
 }
