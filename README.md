@@ -26,3 +26,15 @@ Following noteworthy code practices have been taken into account to prevent code
 - Keep methods small i.e. less than 10 lines of code.
 - Method names should explain what the method does, thus, making code readable and reducing the need to add comments
 - Prevent bloating of a class with too many methods i.e. less than 15 methods
+
+**Build Dependencies**
+- Maven 3.6.3 or later
+
+**Build Command**
+
+`mvn package`
+
+**Run Command**
+
+`java -Dfile.encoding=UTF-8 -classpath <path_of_this_repo>/target/classes:<path_of_maven_repo>/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:<path_of_maven_repo>/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar movie.App <absolute_path_of_input_file>`
+
