@@ -38,3 +38,7 @@ Following noteworthy code practices have been taken into account to prevent code
 
 `java -Dfile.encoding=UTF-8 -classpath <path_of_this_repo>/target/classes:<path_of_maven_repo>/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:<path_of_maven_repo>/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar movie.App <absolute_path_of_input_file>`
 
+**Environment Variables**
+
+- `APPDEBUG` - true if debug messages is needed, check log/propertieslog.log
+- `MOVIEALLOC` - set algorithm to allocate user requests, currently takes two value `leastloss` and `random`. If anything else is passed or it is unset, then BaselineAllocator works. `leastlosss` is for LeastLossAllocator. `random` is for RandomAllocator.
