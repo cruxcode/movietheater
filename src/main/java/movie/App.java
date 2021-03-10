@@ -1,5 +1,7 @@
 package movie;
 
+import java.io.File;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -11,6 +13,16 @@ public class App
     public static void main( String[] args )
     {
         logger.info("starting simulation...");
+        if(args.length != 1) {
+        	logger.fatal("exactly one argument is required");
+        	return;
+        }
+        File inputFile = new File(args[0]);
+        if(!inputFile.exists()) {
+        	logger.fatal("input file does not exist");
+        	return;
+        }
+        
         Integer numRows = 10;
         Integer numCols = 20;
 
