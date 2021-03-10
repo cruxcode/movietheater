@@ -75,7 +75,7 @@ public class PsuedoMatrix {
 		return null;
 	}
 	
-	private static void trimFreeRanges(LinkedList<FreeRange> list, Integer trimStart, Integer trimEnd) {
+	public static void trimFreeRanges(LinkedList<FreeRange> list, Integer trimStart, Integer trimEnd) {
 		Iterator<FreeRange> iter = list.iterator();
 		while(iter.hasNext()) {
 			FreeRange range = iter.next();
@@ -104,7 +104,7 @@ public class PsuedoMatrix {
 		}
 	}
 	
-	private static void addRemoveList(LinkedList<FreeRange> list, FreeRange oldRange, FreeRange[] newRange) {
+	public static void addRemoveList(LinkedList<FreeRange> list, FreeRange oldRange, FreeRange[] newRange) {
 		int index = list.indexOf(oldRange);
 		ArrayList<FreeRange> newRangeList = new ArrayList<FreeRange>(2);
 		if(newRange[1] != null)
