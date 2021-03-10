@@ -65,11 +65,11 @@ public class PsuedoMatrix {
 		return false;
 	}
 	
-	public void iterate(Iterator iterator) {
-		
-	}
-	
-	public interface Iterator {
-		
+	@SuppressWarnings("unchecked")
+	public LinkedList<FreeRange> getRow(Integer rowNum) {
+		if(this.checkRowExists(rowNum)) {
+			return (LinkedList<FreeRange>)this.rows.get(rowNum).clone();
+		}
+		return null;
 	}
 }
