@@ -56,23 +56,28 @@ public class PsuedoMatrix {
 			}
 		}
 		if(resultRanges != null) {
-			Integer trimStart = resultRanges[0].getStart() - this.bufferSeats;
-			if(trimStart < 0)
-				trimStart = 0;
-			Integer trimEnd = resultRanges[0].getEnd() + this.bufferSeats;
-			if(trimEnd >= this.numCols)
-				trimEnd = this.numCols - 1;
-			
-			trimFreeRanges(list, trimStart, trimEnd);
-			if(this.checkRowExists(row - 1)) {
-				trimFreeRanges(this.rows.get(row - 1), trimStart, trimEnd);
-			}
-			if(this.checkRowExists(row + 1)) {
-				trimFreeRanges(this.rows.get(row + 1), trimStart, trimEnd);
-			}
+			this.ensurePublicSafety(resultRanges, row);
 			return  resultRanges[0];
 		}
 		return null;
+	}
+	
+	private void ensurePublicSafety(FreeRange[] resultRanges, Integer row) {
+		LinkedList<FreeRange> list = this.rows.get(row);
+		Integer trimStart = resultRanges[0].getStart() - this.bufferSeats;
+		if(trimStart < 0)
+			trimStart = 0;
+		Integer trimEnd = resultRanges[0].getEnd() + this.bufferSeats;
+		if(trimEnd >= this.numCols)
+			trimEnd = this.numCols - 1;
+		
+		trimFreeRanges(list, trimStart, trimEnd);
+		if(this.checkRowExists(row - 1)) {
+			trimFreeRanges(this.rows.get(row - 1), trimStart, trimEnd);
+		}
+		if(this.checkRowExists(row + 1)) {
+			trimFreeRanges(this.rows.get(row + 1), trimStart, trimEnd);
+		}
 	}
 	
 	public static void trimFreeRanges(LinkedList<FreeRange> list, Integer trimStart, Integer trimEnd) {

@@ -18,6 +18,10 @@ public class BaselineAllocator implements AllocatorStrategy {
 
 	@Override
 	public AllocatorResult allocate(Integer numSeats) {
+		if(this.matrix == null) {
+			logger.fatal("setSize must be called first before calling allocate");
+			return null;
+		}
 		for (Integer i = 0; i < this.matrix.getNumRows(); i++) {
 			LinkedList<FreeRange> row = this.matrix.getRow(i);
 			Iterator<FreeRange> iter = row.iterator();
