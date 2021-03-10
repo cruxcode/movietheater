@@ -31,7 +31,7 @@ public class App
         Integer numCols = 20;
         if(getAlgoType() != null) {
         	String algoType = getAlgoType();
-        	switch(algoType) 
+        	switch(algoType.toString()) 
         	{
         		case "random":
         			logger.info("strategy used is " + RandomAllocator.class.getName());
@@ -48,6 +48,10 @@ public class App
                     allocator = new BaselineAllocator();
                     run(allocator, numRows, numCols, filename);
         	}
+        } else {
+        	logger.info("strategy used is " + BaselineAllocator.class.getName());
+            allocator = new BaselineAllocator();
+            run(allocator, numRows, numCols, filename);
         }
     }
     
